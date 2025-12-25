@@ -1,1 +1,7 @@
+To Run the application follow the below steps:
+1. Pull the application and build it with Java 17 
+2. Run the main application, make sure the embedded tomcat is started
+3. On any browser, copy paste the below address
+5. You can change the RSS feed url if you like to test
 http://localhost:8080/api/rss/feed?url=https://techcrunch.com/feed/
+
